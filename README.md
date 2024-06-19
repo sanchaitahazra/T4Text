@@ -2,7 +2,9 @@
 
 Official repository for the paper [To Tell The Truth: Language of Deception and Language Models](https://arxiv.org/pdf/2311.07092.pdf)
 
-A sample transcript from our dataset is available [here](https://github.com/sanchaitahazra/T4Text/blob/main/T5/sample_72.txt). We are working on a dataset request form through which our full dataset can be accessed.
+A sample transcript from our dataset is available [here](https://github.com/sanchaitahazra/T4Text/blob/main/T5/sample_72.txt). To access the full dataset, please fill up the [form](https://forms.gle/4r45bFvWCcp8jazz9). We will share the dataset shortly after the request is submitted. 
+
+The dataset is released under ODC-BY license. You are only allowed to use this for research purposes.
 
 
 ## Citation
