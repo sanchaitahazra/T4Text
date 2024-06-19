@@ -6,6 +6,12 @@ A sample transcript from our dataset is available [here](https://github.com/sanc
 
 The dataset is released under ODC-BY license. You are only allowed to use this for research purposes.
 
+<p align="center">
+  <a href="[https://github.com/sanchaitahazra/T4Text](https://github.com/sanchaitahazra/T4Text)">
+    <img src="assets/t4text.png" width="100%" alt="T4Text" />
+  </a>
+</p>
+
 
 ## Citation
 ```bib
