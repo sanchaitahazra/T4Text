@@ -20,7 +20,8 @@ The dataset is released under ODC-BY license. You are only allowed to use this f
   title     = "To Tell The Truth: Language of Deception and Language Models",
   booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)",
   year = "2024",
+  pages = "8498--8512",
   publisher = "Association for Computational Linguistics",
-  url = "https://arxiv.org/pdf/2311.07092.pdf"
+  url = "https://aclanthology.org/2024.naacl-long.470"
 }
 ```
